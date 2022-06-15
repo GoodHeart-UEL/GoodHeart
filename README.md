@@ -1,5 +1,5 @@
 <h1 align="center">
-  ❤️ GoodHeart 💻
+  ❤️ Good Heart 💻
 </h1>
 
 <h4 align="center">
